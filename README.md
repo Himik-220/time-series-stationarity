@@ -22,7 +22,7 @@ pip install pandas numpy matplotlib scipy statsmodels
 jupyter notebook time_series_stationarity.ipynb
 ```
 
-Данные лежат в папке `Series/` рядом с ноутбуком — пути относительные, ничего менять не нужно.
+CSV-файлы лежат в этом же репозитории рядом с ноутбуком — ноутбук находит их автоматически.
 
 ## Зависимости
 
